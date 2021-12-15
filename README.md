@@ -22,6 +22,10 @@ El valor del voltaje en el pin S dependería de la fuerza de un imán y la dista
 https://raw.githubusercontent.com/Oscar-HM/KY-003-Hall-Magnetic/main/main.py
 
 ```
+#
+# OSCAR HERNANDEZ MEDINA
+#
+
 import RPi.GPIO as GPIO
 
 GPIO.setmode(GPIO.BCM)
